@@ -1,15 +1,13 @@
 ---
 category: overview
 date: '2025-01-13'
-description: '```markdown # Comprehensive Report on U.S. Military and Veterans Affairs
-  - October 2023'
+description: '![Veterans Benefits Updates](https://example.com/veterans-benefits-image.jpg)'
+layout: layouts/post.njk
 tags:
+- posts
 - overview
 title: Comprehensive Report on U.S. Military and Veterans Affairs - October 2023
 ---
-
-```markdown
-# Comprehensive Report on U.S. Military and Veterans Affairs - October 2023
 
 ## Executive Summary
 In October 2023, significant developments have emerged in the realm of U.S. military and veterans affairs. This report highlights critical updates from legislation affecting healthcare and benefits to immediate scams targeting veterans. Key legislative actions, including the signing of the Elizabeth Dole Act, promise improvements in healthcare provisions for veterans. Furthermore, a notable 8.7% cost-of-living adjustment (COLA) aims to alleviate financial stress amid rising inflation. This document provides insight into current challenges and proposed strategies while emphasizing actionable resources for veterans and their families.

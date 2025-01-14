@@ -1,14 +1,13 @@
 ---
 category: policy
 date: '2025-01-12'
-description: '```markdown # Upcoming Military Policy Changes: What You Need to Know'
+description: '---'
+layout: layouts/post.njk
 tags:
+- posts
 - policy
 title: 'Upcoming Military Policy Changes: What You Need to Know'
 ---
-
-```markdown
-# Upcoming Military Policy Changes: What You Need to Know
 
 ## Introduction
 As we close out the year, significant policy updates in the U.S. military and veterans affairs sector have been announced. The implementation of new policies, changes to existing regulations, and their potential impacts on service members and veterans warrant careful attention. This post summarizes the key updates, timelines, and provides actionable insights for those affected.
@@ -78,5 +77,3 @@ The recent policy updates reflect a proactive approach to improving military and
 ---
 
 **Stay connected** – for updates on military policy changes, resources, and insights, follow our blog and join the conversation on social media!
-
-```

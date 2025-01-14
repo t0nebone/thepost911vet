@@ -1,16 +1,16 @@
 ---
 category: benefits
 date: '2025-01-12'
-description: '```markdown # Navigating Veteran Benefits: Updates, Eligibility Changes,
-  and Application Processes'
+description: As veterans transition to civilian life, understanding the available
+  benefits and services is crucial. Recent updates from the Department of Veterans
+  Affairs (V...
+layout: layouts/post.njk
 tags:
+- posts
 - benefits
 title: 'Navigating Veteran Benefits: Updates, Eligibility Changes, and Application
   Processes'
 ---
-
-```markdown
-# Navigating Veteran Benefits: Updates, Eligibility Changes, and Application Processes
 
 As veterans transition to civilian life, understanding the available benefits and services is crucial. Recent updates from the Department of Veterans Affairs (VA) outline significant changes in veteran benefits programs, eligibility criteria, and the application process. This blog post delves into these changes and offers resources to help veterans and their families navigate the complexities involved.
 

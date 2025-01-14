@@ -4,7 +4,9 @@ date: '2025-01-13'
 description: As we step into October 2023, significant military operations and deployments
   are impacting not just strategies but also the lives of deployed personnel. This
   f...
+layout: layouts/post.njk
 tags:
+- posts
 - operations
 title: The Latest on Military Operations and Deployments - October 2023
 ---

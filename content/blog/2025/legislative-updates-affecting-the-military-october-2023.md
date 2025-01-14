@@ -1,14 +1,14 @@
 ---
 category: legislative
 date: '2025-01-13'
-description: '```markdown # Legislative Updates Affecting the Military - October 2023'
+description: As we delve into October 2023, significant legislative changes and developments
+  have emerged, directly impacting military personnel and veterans. This blog post...
+layout: layouts/post.njk
 tags:
+- posts
 - legislative
 title: Legislative Updates Affecting the Military - October 2023
 ---
-
-```markdown
-# Legislative Updates Affecting the Military - October 2023
 
 As we delve into October 2023, significant legislative changes and developments have emerged, directly impacting military personnel and veterans. This blog post focuses on critical updates, analyses their implications, and outlines what these changes mean for the future of military operations and veteran affairs.
 

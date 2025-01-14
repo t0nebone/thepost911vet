@@ -1,14 +1,15 @@
 ---
 category: legislative
 date: '2025-01-12'
-description: '```markdown # Legislative Update: Impactful Changes in Military Affairs'
+description: As the U.S. military navigates a dynamic landscape, recent legislative
+  updates are shaping the future of defense policies and veteran affairs. This blog
+  post su...
+layout: layouts/post.njk
 tags:
+- posts
 - legislative
 title: 'Legislative Update: Impactful Changes in Military Affairs'
 ---
-
-```markdown
-# Legislative Update: Impactful Changes in Military Affairs
 
 As the U.S. military navigates a dynamic landscape, recent legislative updates are shaping the future of defense policies and veteran affairs. This blog post summarizes new bills, congressional decisions, and their implications for military operations.
 
@@ -57,4 +58,3 @@ Congressional funding is expected to continue growing, potentially opening avenu
 The recent legislative updates impacting the military signal a transformative phase for both active and retired service members. By focusing on pay increases, mental health support, and telehealth access, lawmakers are addressing critical needs that will influence military readiness and veteran support in the coming years. Stakeholders must remain vigilant and engaged as these policies evolve, ensuring that the changes meet the needs of those who serve.
 
 **Stay tuned for future updates on military affairs and legislative impacts!**
-```

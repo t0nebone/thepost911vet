@@ -1,15 +1,13 @@
 ---
 category: policy
 date: '2025-01-13'
-description: '```markdown # Comprehensive Blog Post on Recent Military Policy Changes
-  (October 2023)'
+description: '---'
+layout: layouts/post.njk
 tags:
+- posts
 - policy
 title: Comprehensive Blog Post on Recent Military Policy Changes (October 2023)
 ---
-
-```markdown
-# Comprehensive Blog Post on Recent Military Policy Changes (October 2023)
 
 ## Introduction
 As we navigate the evolving landscape of military policy, it’s essential to stay informed about recent changes that directly impact service members and veterans. This post explores new implementations, updates to existing policies, the anticipated effects on our military community, and actionable steps for service members.

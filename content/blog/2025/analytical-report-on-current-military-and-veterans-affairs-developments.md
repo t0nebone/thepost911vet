@@ -4,7 +4,9 @@ date: '2025-01-12'
 description: In the ever-evolving landscape of military and veterans affairs, recent
   developments underline both immediate and long-term impacts on service members and
   veter...
+layout: layouts/post.njk
 tags:
+- posts
 - overview
 title: Analytical Report on Current Military and Veterans Affairs Developments
 ---
